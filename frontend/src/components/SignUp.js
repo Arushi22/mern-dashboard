@@ -15,7 +15,7 @@ function SignUp() {
         type="password"
         placeholder="Enter Password"
       />
-      <button className="appButton">SignUp</button>
+      <button className="appButton">SignnUp</button>
     </div>
   );
 }
